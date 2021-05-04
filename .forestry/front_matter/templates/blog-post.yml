@@ -11,7 +11,7 @@ fields:
   label: date
   default: now
   config:
-    export_format: YYYY-MM-DD h:mm A ZZ
+    export_format: YYYY-MM-DD h:mm.ZZ
 - type: file
   name: hero_image
   label: hero_image
