@@ -5,9 +5,11 @@ fields:
 - type: text
   name: author
   label: author
+  default: Benjamin Moormeier
 - type: datetime
   name: date
   label: date
+  default: now
 - type: file
   name: hero_image
   label: hero_image
