@@ -5,4 +5,4 @@ hero_image: https://gifted-kare-fa4f68.netlify.app/public/static/chad-madden-ogi
 title: Welcome to Cloud Hearted
 
 ---
-This is a test page
+This is a test post.
