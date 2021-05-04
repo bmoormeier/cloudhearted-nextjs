@@ -16,3 +16,5 @@ fields:
 - type: text
   name: title
   label: title
+pages:
+- posts/welcome-to-cloud-hearted.md
